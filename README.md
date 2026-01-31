@@ -1,139 +1,116 @@
-<h1 align="center">Vamsi Krishna Achyutuni</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2800&color=0A66C2&center=true&vCenter=true&width=950&lines=AI+Systems+Builder;Backend-Focused+Full-Stack+Engineer;Agentic+AI+%7C+RAG+%7C+Cloud;Designing+Scalable+Services+and+Platforms" />
+</p>
+
+<h1 align="center">Hi there, I'm Vamsi Krishna Achyutuni 👋</h1>
 
 <p align="center">
-Engineer focused on building scalable backend systems, intelligent retrieval pipelines, and production-style AI platforms.
+Backend-focused full-stack engineer building AI-powered systems, scalable services, and clean user experiences.
 </p>
 
 <p align="center">
-MS Computer Science @ Georgia State University • Former Software Engineer @ Deloitte
+🎓 MS Computer Science @ Georgia State University • Ex-Deloitte
 </p>
 
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/vachyutuni/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://vamsikrishnaportfolio-psi.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vachyutuni/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white">
   </a>
   <a href="mailto:vachyutunik@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&style=for-the-badge&logoColor=white">
   </a>
-  <a href="https://vamsikrishnaportfolio-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achyutuni2001&style=flat-square&color=0A66C2" alt="profile views"/>
 </p>
 
 ---
 
-# Building Systems That Scale
+## 🧠 About
 
-I design software with a **systems mindset** — prioritizing architecture, reliability, and long-term maintainability over quick prototypes.
+I build intelligent systems with a strong focus on backend architecture, scalability, and reliability. While I work across the stack, my core interest lies in designing APIs, distributed services, and AI-powered platforms that solve practical problems.
 
-My work sits at the intersection of:
-
-- Intelligent backend services  
-- Retrieval-augmented systems  
-- Agent orchestration  
-- Cloud-native infrastructure  
-- Production-grade APIs  
-
-I care deeply about writing software that is **observable, extensible, and built for real usage.**
+I’m particularly drawn to agentic workflows, retrieval-based systems, and cloud-native infrastructure, and I enjoy turning complex ideas into software that is clear, durable, and ready for real-world use.
 
 ---
 
-# Selected Work
+## 🧠 Core Strengths
 
-## MeetAI — Agentic Meeting Platform *(In Progress)*  
-**Next.js • TypeScript • SaaS Architecture • AI Agents**
-
-A modern meeting platform where AI is treated as infrastructure rather than a feature.
-
-Designed around modular agents capable of summarization, knowledge capture, and workflow automation — enabling meetings to become searchable, actionable systems.
-
-→ https://github.com/achyutuni2001/meetai
-
+- Designing backend-first architectures for real products  
+- Building reliable APIs, services, and workflows  
+- Creating retrieval pipelines and agentic AI components  
+- Shipping end-to-end features with clean UX and strong engineering hygiene  
 
 ---
 
-## AgentForge — Engineering AI Agents as First-Class Systems  
-**Google ADK • FastAPI • Clean Architecture**
+## ⚙️ Technical Expertise
 
-An architectural exploration into treating agents like backend services instead of experimental scripts.
+**Languages**  
+TypeScript • Python • Java • C# • SQL • JavaScript  
 
-Focus areas include:
+**Backend & Systems**  
+Node.js • Express • .NET Web APIs • REST • Auth • Event-driven workflows • Microservices fundamentals  
 
-- interface-driven design  
-- orchestration layers  
-- observability  
-- composability  
+**AI / ML Engineering**  
+RAG • semantic retrieval • embeddings • vector databases • structured prompting • agentic workflows  
 
-→ https://github.com/achyutuni2001/AgentForge
+**Frontend Engineering**  
+React • Next.js • Angular • TailwindCSS • state management • component architecture  
 
----
+**Cloud & Infrastructure**  
+Azure • AWS • Docker • serverless patterns • API gateway patterns  
 
-## AskDB — Natural Language Interface for Databases  
-**LangChain • Structured Prompting • Query Execution**
+**Data & Storage**  
+PostgreSQL • MySQL • Cosmos DB • Redis  
 
-Transforms plain English questions into executable SQL while remaining schema-aware.
-
-Built to reduce friction between humans and structured data.
-
-→ https://github.com/achyutuni2001/AskDB
+**Engineering Practices**  
+Clean Architecture • interface-driven design • observability-first mindset • scalable system design  
 
 ---
 
-## F1GPT — Retrieval-Based AI System  
-**LangChain.js • Vector Retrieval • Next.js**
+## 🏗️ Featured Projects
 
-A RAG-powered assistant that answers Formula 1 queries using curated knowledge sources and a clean retrieval pipeline.
+### 🤖 MeetAI — Agentic Meeting Platform (Ongoing)
+**Next.js • TypeScript • SaaS Architecture • AI Agents**  
+AI-native meeting product where intelligence is treated as infrastructure — enabling searchable conversations, automated knowledge capture, and workflow automations.  
+🔗 https://github.com/achyutuni2001/meetai
 
-→ https://github.com/achyutuni2001/f1gpt
+### 🛠️ AgentForge — Structured, Observable AI Agents
+**Google ADK • FastAPI • Clean Architecture**  
+Exploration of building agents as first-class backend components with orchestration layers, clean boundaries, and observability.  
+🔗 https://github.com/achyutuni2001/AgentForge
 
----
+### 🧾 AskDB — Natural Language → SQL
+**LangChain • Structured Prompting • Query Execution**  
+Plain-English database querying using schema-aware prompting and SQL execution to reduce friction between humans and data.  
+🔗 https://github.com/achyutuni2001/AskDB
 
-# Technical Foundation
-
-### Languages
-TypeScript • Python • Java • C#  
-
-### Backend
-Node.js • REST APIs • Distributed workflows  
-
-### AI
-RAG • embeddings • semantic retrieval • agent workflows  
-
-### Cloud & Infra
-Azure • AWS • Docker  
-
-### Data
-PostgreSQL • MySQL  
+### 🏎️ F1GPT — Retrieval-Based AI Assistant
+**LangChain.js • Vector Retrieval • Next.js**  
+RAG-powered assistant built around curated knowledge pipelines and semantic search for Formula 1 Q&A.  
+🔗 https://github.com/achyutuni2001/f1gpt
 
 ---
 
-# Certifications
+## 📜 Certifications
 
-AWS Certified Solutions Architect — Associate  
-Microsoft Azure Fundamentals  
+- AWS Certified Solutions Architect — Associate  
+- Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+## 🧭 Engineering Philosophy
+
+Great systems are intentional, they emerge from clear boundaries, strong abstractions, and an obsession with clarity.
+
+I aim to build software that remains understandable and reliable as it grows.
 
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vachyutuni&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachyutuni&layout=compact&hide_border=true"/>
-</p>
-
----
-
-# Engineering Philosophy
-
-Great systems are not accidental.
-
-They are designed with intention —  
-clear boundaries, strong abstractions, and respect for scale.
-
-I aim to build software that remains understandable long after it ships.
-
----
-
-<p align="center">
-<strong>Open to Software Engineering & AI Engineering opportunities.</strong>
+  <strong>Open to Software Engineering and AI Engineering opportunities.</strong>
 </p>
