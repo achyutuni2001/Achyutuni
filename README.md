@@ -1,85 +1,139 @@
-<h1 align="center">Hi there, I'm Vamsi Krishna Achyutuni 👋</h1>
+<h1 align="center">Vamsi Krishna Achyutuni</h1>
 
 <p align="center">
-  🚀 Software Engineer | Passionate AI Engineer | Full-Stack Developer  
-  🎓 Computer Science Master's @ Georgia State University | Ex-Deloitte  
+Engineer focused on building scalable backend systems, intelligent retrieval pipelines, and production-style AI platforms.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vachyutuni/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge">
+MS Computer Science @ Georgia State University • Former Software Engineer @ Deloitte
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vachyutuni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:vachyutunik@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vamsikrishnaportfolio-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+# Building Systems That Scale
 
-Hi! I'm Vamsi, a software engineer who loves blending clean code with clever AI to create real-world impact. I’ve built production grade systems across front-end, back-end, and AI stacks. From scalable REST APIs and React dashboards to RAG powered AI bots. I love solving hard problems with elegant tech.
+I design software with a **systems mindset** — prioritizing architecture, reliability, and long-term maintainability over quick prototypes.
 
-- 🔭 Currently building: AI agents, RAG apps, scalable SaaS platforms  
-- 💡 Tools I enjoy: React, Node.js, .NET, LangChain, AWS, Azure, Next.js  
-- 🧠 Always learning: Multi-modal AI, vector databases, agentic workflows  
+My work sits at the intersection of:
+
+- Intelligent backend services  
+- Retrieval-augmented systems  
+- Agent orchestration  
+- Cloud-native infrastructure  
+- Production-grade APIs  
+
+I care deeply about writing software that is **observable, extensible, and built for real usage.**
 
 ---
 
-### 💻 Tech Stack
+# Selected Work
+
+## MeetAI — Agentic Meeting Platform *(In Progress)*  
+**Next.js • TypeScript • SaaS Architecture • AI Agents**
+
+A modern meeting platform where AI is treated as infrastructure rather than a feature.
+
+Designed around modular agents capable of summarization, knowledge capture, and workflow automation — enabling meetings to become searchable, actionable systems.
+
+→ https://github.com/achyutuni2001/meetai
+
+
+---
+
+## AgentForge — Engineering AI Agents as First-Class Systems  
+**Google ADK • FastAPI • Clean Architecture**
+
+An architectural exploration into treating agents like backend services instead of experimental scripts.
+
+Focus areas include:
+
+- interface-driven design  
+- orchestration layers  
+- observability  
+- composability  
+
+→ https://github.com/achyutuni2001/AgentForge
+
+---
+
+## AskDB — Natural Language Interface for Databases  
+**LangChain • Structured Prompting • Query Execution**
+
+Transforms plain English questions into executable SQL while remaining schema-aware.
+
+Built to reduce friction between humans and structured data.
+
+→ https://github.com/achyutuni2001/AskDB
+
+---
+
+## F1GPT — Retrieval-Based AI System  
+**LangChain.js • Vector Retrieval • Next.js**
+
+A RAG-powered assistant that answers Formula 1 queries using curated knowledge sources and a clean retrieval pipeline.
+
+→ https://github.com/achyutuni2001/f1gpt
+
+---
+
+# Technical Foundation
+
+### Languages
+TypeScript • Python • Java • C#  
+
+### Backend
+Node.js • REST APIs • Distributed workflows  
+
+### AI
+RAG • embeddings • semantic retrieval • agent workflows  
+
+### Cloud & Infra
+Azure • AWS • Docker  
+
+### Data
+PostgreSQL • MySQL  
+
+---
+
+# Certifications
+
+AWS Certified Solutions Architect — Associate  
+Microsoft Azure Fundamentals  
+
+---
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-
-  <!-- DB & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vachyutuni&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachyutuni&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-### 🏗️ Featured Projects
+# Engineering Philosophy
 
-#### 🧾 TextNest – Collaborative Document Platform  
-*Node.js | React | TailwindCSS | TypeScript*  
-🛠️ Real-time rich text editing, built for seamless collaboration and document management.
+Great systems are not accidental.
 
-#### 🏎️ F1GPT – Formula 1 Chatbot using RAG  
-*LangChain.js | OpenAI | Puppeteer | Astra DB | Next.js*  
-⚡ AI-powered bot that retrieves live race data and answers F1 queries in real-time.
+They are designed with intention —  
+clear boundaries, strong abstractions, and respect for scale.
 
----
-
-### 📜 Certifications
-
-- 🎯 AWS Certified Solutions Architect – Associate  
-- ☁️ Microsoft Azure Fundamentals (AZ-900)
+I aim to build software that remains understandable long after it ships.
 
 ---
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vachyutuni&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachyutuni&layout=compact&theme=react&hide_border=true" height="160"/>
+<strong>Open to Software Engineering & AI Engineering opportunities.</strong>
 </p>
-
----
-
-> “I don’t just build apps — I build intelligent, scalable systems that solve real problems.”  
-Let’s connect and collaborate! 💡
