@@ -74,6 +74,11 @@ Clean Architecture • interface-driven design • observability-first mindset �
 
 ## 🏗️ Featured Projects
 
+### 🛒 FlashCart — Flash-Sale E-Commerce Platform
+**C# • ASP.NET Core • Kafka • Redis • MySQL • Docker • Kubernetes**  
+Distributed microservices platform built to handle high-concurrency flash-sale traffic, with Redis-based atomic stock reservation to prevent overselling, Kafka-driven asynchronous order workflows, and API gateway security with Keycloak JWT authentication.  
+🔗 https://github.com/achyutuni2001/FlashCart
+
 ### 🤖 MeetAI — Agentic Meeting Platform (Ongoing)
 **Next.js • TypeScript • SaaS Architecture • AI Agents**  
 AI-native meeting product where intelligence is treated as infrastructure — enabling searchable conversations, automated knowledge capture, and workflow automations.  
